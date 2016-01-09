@@ -1,12 +1,12 @@
 # Site settings
 title: Drift Diary
+footer_title: ブログについて
 email: drikin@gmail.com
 description: >
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  このブログはドリキンのガジェット散在や気になる事全般を書き記す個人ブログです。
 baseurl: ""
 url: "http://blog.drikin.com"
+author: ドリキン
 twitter_username: drikin
 github_username:  drikin
 
