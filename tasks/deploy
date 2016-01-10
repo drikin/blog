@@ -1,0 +1,4 @@
+#!/bin/sh
+
+jekyll build
+scp -r -P 5551 _site/* blog.drikin.com:blog
